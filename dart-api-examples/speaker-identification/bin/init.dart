@@ -1,1 +1,1 @@
-../../vad/bin/init.dart
+/home/wangkeran/sherpa-onnx/dart-api-examples/speaker-identification/bin/../../vad/bin/init.dart

@@ -1,1 +1,1 @@
-../../../../go-api-examples/real-time-speech-recognition-from-microphone/main.go
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/real-time-speech-recognition-from-microphone/../../../../go-api-examples/real-time-speech-recognition-from-microphone/main.go

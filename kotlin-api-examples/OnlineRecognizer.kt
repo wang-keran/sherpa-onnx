@@ -1,1 +1,1 @@
-../sherpa-onnx/kotlin-api/OnlineRecognizer.kt
+/home/wangkeran/sherpa-onnx/kotlin-api-examples/../sherpa-onnx/kotlin-api/OnlineRecognizer.kt

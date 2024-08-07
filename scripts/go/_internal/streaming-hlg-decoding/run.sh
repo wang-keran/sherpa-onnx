@@ -1,1 +1,1 @@
-../../../../go-api-examples/streaming-hlg-decoding/run.sh
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/streaming-hlg-decoding/../../../../go-api-examples/streaming-hlg-decoding/run.sh

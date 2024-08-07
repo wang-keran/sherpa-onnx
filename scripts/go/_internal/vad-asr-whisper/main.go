@@ -1,1 +1,1 @@
-../../../../go-api-examples/vad-asr-whisper/main.go
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/vad-asr-whisper/../../../../go-api-examples/vad-asr-whisper/main.go

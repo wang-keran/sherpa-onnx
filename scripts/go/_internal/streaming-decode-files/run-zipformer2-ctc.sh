@@ -1,1 +1,1 @@
-../../../../go-api-examples/streaming-decode-files/run-zipformer2-ctc.sh
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/streaming-decode-files/../../../../go-api-examples/streaming-decode-files/run-zipformer2-ctc.sh

@@ -1,1 +1,1 @@
-../../../../go-api-examples/streaming-decode-files/run-paraformer.sh
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/streaming-decode-files/../../../../go-api-examples/streaming-decode-files/run-paraformer.sh

@@ -1,1 +1,1 @@
-../../../../go-api-examples/speaker-identification/run.sh
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/speaker-identification/../../../../go-api-examples/speaker-identification/run.sh

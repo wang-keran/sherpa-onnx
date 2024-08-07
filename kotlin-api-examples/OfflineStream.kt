@@ -1,1 +1,1 @@
-../sherpa-onnx/kotlin-api/OfflineStream.kt
+/home/wangkeran/sherpa-onnx/kotlin-api-examples/../sherpa-onnx/kotlin-api/OfflineStream.kt

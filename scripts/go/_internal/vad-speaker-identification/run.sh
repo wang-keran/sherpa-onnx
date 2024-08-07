@@ -1,1 +1,1 @@
-../../../../go-api-examples/vad-speaker-identification/run.sh
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/vad-speaker-identification/../../../../go-api-examples/vad-speaker-identification/run.sh

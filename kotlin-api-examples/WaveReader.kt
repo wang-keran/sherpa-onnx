@@ -1,1 +1,1 @@
-../sherpa-onnx/kotlin-api/WaveReader.kt
+/home/wangkeran/sherpa-onnx/kotlin-api-examples/../sherpa-onnx/kotlin-api/WaveReader.kt

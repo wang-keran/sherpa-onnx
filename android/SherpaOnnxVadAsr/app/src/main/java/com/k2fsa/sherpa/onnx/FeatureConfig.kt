@@ -1,1 +1,1 @@
-../../../../../../../../../../sherpa-onnx/kotlin-api/FeatureConfig.kt
+/home/wangkeran/sherpa-onnx/android/SherpaOnnxVadAsr/app/src/main/java/com/k2fsa/sherpa/onnx/../../../../../../../../../../sherpa-onnx/kotlin-api/FeatureConfig.kt

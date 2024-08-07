@@ -1,1 +1,1 @@
-../../sherpa-onnx/csrc/alsa.h
+/home/wangkeran/sherpa-onnx/c-api-examples/asr-microphone-example/../../sherpa-onnx/csrc/alsa.h

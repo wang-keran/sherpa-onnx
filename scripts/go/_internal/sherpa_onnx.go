@@ -1,1 +1,1 @@
-../sherpa_onnx.go
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/../sherpa_onnx.go

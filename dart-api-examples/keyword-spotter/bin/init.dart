@@ -1,1 +1,1 @@
-../../vad/bin/init.dart
+/home/wangkeran/sherpa-onnx/dart-api-examples/keyword-spotter/bin/../../vad/bin/init.dart

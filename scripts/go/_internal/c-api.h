@@ -1,1 +1,1 @@
-../../../sherpa-onnx/c-api/c-api.h
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/../../../sherpa-onnx/c-api/c-api.h

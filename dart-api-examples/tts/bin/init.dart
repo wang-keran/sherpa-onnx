@@ -1,1 +1,1 @@
-../../vad/bin/init.dart
+/home/wangkeran/sherpa-onnx/dart-api-examples/tts/bin/../../vad/bin/init.dart

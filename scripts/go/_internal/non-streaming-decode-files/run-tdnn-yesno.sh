@@ -1,1 +1,1 @@
-../../../../go-api-examples/non-streaming-decode-files/run-tdnn-yesno.sh
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/non-streaming-decode-files/../../../../go-api-examples/non-streaming-decode-files/run-tdnn-yesno.sh

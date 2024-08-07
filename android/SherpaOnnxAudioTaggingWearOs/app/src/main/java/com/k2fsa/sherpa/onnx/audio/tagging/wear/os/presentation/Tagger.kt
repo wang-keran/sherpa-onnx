@@ -1,1 +1,1 @@
-../../../../../../../../../../../../../../SherpaOnnxAudioTagging/app/src/main/java/com/k2fsa/sherpa/onnx/audio/tagging/Tagger.kt
+/home/wangkeran/sherpa-onnx/android/SherpaOnnxAudioTaggingWearOs/app/src/main/java/com/k2fsa/sherpa/onnx/audio/tagging/wear/os/presentation/../../../../../../../../../../../../../../SherpaOnnxAudioTagging/app/src/main/java/com/k2fsa/sherpa/onnx/audio/tagging/Tagger.kt

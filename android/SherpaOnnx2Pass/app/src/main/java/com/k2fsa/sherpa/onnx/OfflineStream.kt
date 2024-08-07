@@ -1,1 +1,1 @@
-../../../../../../../../../../sherpa-onnx/kotlin-api/OfflineStream.kt
+/home/wangkeran/sherpa-onnx/android/SherpaOnnx2Pass/app/src/main/java/com/k2fsa/sherpa/onnx/../../../../../../../../../../sherpa-onnx/kotlin-api/OfflineStream.kt

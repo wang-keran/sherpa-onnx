@@ -1,1 +1,1 @@
-../../../../go-api-examples/vad-asr-paraformer/main.go
+/home/wangkeran/sherpa-onnx/scripts/go/_internal/vad-asr-paraformer/../../../../go-api-examples/vad-asr-paraformer/main.go
